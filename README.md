@@ -1,4 +1,6 @@
-## Hi there 👋!
+![github-header-image (1)](https://github.com/lrenad/lrenad/assets/110859723/d29c2a7c-ea6a-49a6-b825-0f2b492e6e1c)
+## Hi there, I'm Renad 👋!
+
 + Junior Computer Science Student 
 + Interested In Becoming A Full Stack Developer
 
