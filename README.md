@@ -1,4 +1,4 @@
 ## Hi there, I'm Renad 👋!
 
-+ Senior Computer Science Student 
++ Fresh CS Graduate with Class Honors 
 + Interested In AI and Software Development
